@@ -86,6 +86,10 @@ Income gap KPI, avg income by education (leavers vs stayers), distance from home
 
 ---
 
-## Dataset
+## 👨‍💻 Author
+**Shil Gawande**  
+Data Analyst | Python · SQL · Power BI  
+📧 [gawandeshil9@gmail.com]  
+🌐 [https://www.linkedin.com/in/shilgawande2004]  
 
-IBM HR Analytics Employee Attrition dataset — fictional data created by IBM data scientists. 1,470 rows, 35 columns. No nulls.
+---
